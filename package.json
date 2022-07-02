@@ -1,0 +1,21 @@
+{
+  "name": "ecommerce-sequelize-project",
+  "version": "1.0.0",
+  "description": "A sequelize project that seeds in the category and product",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amirtha-coder/ecommerce-sequelize-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amirtha-coder/ecommerce-sequelize-project/issues"
+  },
+  "homepage": "https://github.com/amirtha-coder/ecommerce-sequelize-project#readme"
+}
