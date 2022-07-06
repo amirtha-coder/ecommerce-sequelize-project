@@ -16,5 +16,6 @@ const sequelize = process.env.JAWSDB_URL
         },
       }
     );
+console.log(process.env.DB_USER);
 
 module.exports = sequelize;
