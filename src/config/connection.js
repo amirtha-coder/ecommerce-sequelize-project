@@ -15,6 +15,7 @@ const sequelize = process.env.JAWSDB_URL
         dialectOptions: {
           decimalNumbers: true,
         },
+        logging: false,
       }
     );
 console.log(process.env.DB_USER);
