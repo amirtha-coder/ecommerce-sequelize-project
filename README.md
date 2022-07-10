@@ -1,8 +1,6 @@
-# ecommerce-sequelize-project
+# ecommerce-sequelize-project<br>![MIT badge](https://img.shields.io/badge/MIT-License-green)
 
 A sequelize project that seeds in the category, product and tag.
-
-# mysql-employee-tracker<br>![MIT badge](https://img.shields.io/badge/MIT-License-green)
 
 <br>
 
